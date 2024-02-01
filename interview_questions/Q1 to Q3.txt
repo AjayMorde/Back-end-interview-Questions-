@@ -1,0 +1,24 @@
+question 1
+
+
+In JavaScript, let, const, and var are keywords used to store variables. They differ in their scopes
+var -Has global or function scope.
+
+If you store or initialize a value using var, it may be redeclared multiple times in the same scope.let
+
+Has block scope, which means it's limited to the curly braces {} where it's defined.
+
+You can't redeclare a variable using let in the same scope, but you can assign a new value.
+
+
+
+const
+
+Also has block scope.
+
+You can neither redeclare nor reassign a value once it's set.
+
+
+
+
+
